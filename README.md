@@ -60,8 +60,6 @@ The dataset contains medical attributes such as:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/Diabetes-Prediction-System.git
-````
-
 2. Navigate to the project folder
 3. Open Jupyter Notebook:
 
@@ -94,10 +92,4 @@ Final Year B.Tech (IT)
 Asansol Engineering College
 
 ```
-
----
-
-
-
-Just tell me 😊
 ```
